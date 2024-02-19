@@ -1,3 +1,6 @@
+Forked from qianbin/goleveldb/thor-1.7.4.xxxxxx which was forked from syndtr/goleveldb/master with
+many of the optimized pull requests applied.
+
 This is an implementation of the [LevelDB key/value database](https://github.com/google/leveldb) in the [Go programming language](https://go.dev).
 
 [![Build Status](https://app.travis-ci.com/syndtr/goleveldb.svg?branch=master)](https://app.travis-ci.com/syndtr/goleveldb)
