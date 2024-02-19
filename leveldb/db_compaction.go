@@ -12,9 +12,9 @@ import (
 	"sync/atomic"
 	"time"
 
-	"github.com/syndtr/goleveldb/leveldb/errors"
-	"github.com/syndtr/goleveldb/leveldb/opt"
-	"github.com/syndtr/goleveldb/leveldb/storage"
+	"github.com/stangelandcl/goleveldb/leveldb/errors"
+	"github.com/stangelandcl/goleveldb/leveldb/opt"
+	"github.com/stangelandcl/goleveldb/leveldb/storage"
 )
 
 var (
